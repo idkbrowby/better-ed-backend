@@ -27,7 +27,7 @@ services:
       postgres:
         condition: service_healthy
     environment:
-      GR_DATABASE_URL: postgres://admin:adminpw@postgres:5432/bettered
+      DATABASE_URL: postgres://admin:adminpw@postgres:5432/bettered
     volumes:
       - .:/backend
 
