@@ -19,9 +19,10 @@ One of the goals of sustainable development is quality education. With our proje
 # Contributors:
 Team name: idkbrowby
 - [Anand Krishna](https://github.com/anand2312)
+
 - [Gautham Krishna](https://github.com/Gautham-kj)
-- [Vivek Ashokkumar](github.com/vivekashok1221)
-- [Noel Binoy][github.com/noelzak03]
+- [Vivek Ashokkumar](https://github.com/vivekashok1221)
+- [Noel Binoy](https://github.com/noelzak03)
 
 # Development
 Download the project:
